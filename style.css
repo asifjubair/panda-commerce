@@ -26,13 +26,13 @@
     border-radius: 12px;
 }
 .cat-1{
-    background-image: linear-gradient(90deg, #EA2027, #FFC312);
+    background-image: linear-gradient(90deg, #f39c12, #f1c40f);
 }
 .cat-2{
-    background-image: linear-gradient(90deg, #0652DD, #12CBC4 );
+    background-image: linear-gradient(90deg, #d63031, #ff7675 );
 }
 .cat-3{
-    background-image: linear-gradient(90deg, #009432, #C4E538 );
+    background-image: linear-gradient(90deg, #e84393, #fd79a8 );
 }
 .catagory h1{
     color: white ;
